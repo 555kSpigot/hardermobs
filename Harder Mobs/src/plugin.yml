@@ -1,0 +1,10 @@
+name: HarderMobs
+version: 1.0
+author: 555k
+main: com.golimc.hardermobs.Main
+description: A simple plugin to make mobs harder
+
+commands:
+  hardermobs:
+   aliases: [555k]
+   description: Info on the plugin
